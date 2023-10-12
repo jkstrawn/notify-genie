@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308066354911",
+    "project_id": "notify-genie",
+    "storage_bucket": "notify-genie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308066354911:android:cf425f6e7a5ccebcc60b6a",
+        "android_client_info": {
+          "package_name": "com.rindle.notifygenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTP_2hIZ2cfgHuH3TuzIWyzBazrruF3VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
