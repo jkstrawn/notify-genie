@@ -32,6 +32,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     },
     plugins: [
         "@react-native-firebase/app",
+        '@react-native-firebase/messaging',
         "expo-notifications",
         [
             "expo-build-properties",
